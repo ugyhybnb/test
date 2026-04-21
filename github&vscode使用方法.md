@@ -33,3 +33,8 @@ git push
 git pull
 ```
 
+五、其他
+```bash
+git branch -m main
+修改主分支名字为main
+```
